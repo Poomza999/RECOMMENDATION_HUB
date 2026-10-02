@@ -1,5 +1,10 @@
 # 🍽️ Food Recommendation Hub
 
+นายเนติภัทร์ ใจเด็ด 664245020
+
+Live Demo Steam Lit
+https://recommendationapp-ivqnbkxyauwkr83jjz7r2a.streamlit.app/
+
 > ระบบแนะนำอาหารฉลาดด้วย Neo4j Graph Database - ค้นหาเมนูอาหารใหม่จากคำแนะนำของเพื่อน
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
